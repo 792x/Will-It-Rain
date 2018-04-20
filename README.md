@@ -6,10 +6,10 @@ As it is quite awkward to bring an umbrella with you every time you leave the ho
 To simplify answering this question, I have created a simple website/tool that uses your geo-location and answers this question for you. It will tell how much time is left, as well as the exact time of when it will be raining. It will also tell you the severity of the incoming rain. Simply opening the website will give you the answer, from which you can decide if you want to bring an umbrella, or not leave the house at all!
 
 
-Desktop:
 
 ![alt text](https://i.imgur.com/3iOJ5Pe.png)
+Desktop
 
-Mobile:
 
 ![alt text](https://i.imgur.com/Iw7vR5s.png)
+Mobile
