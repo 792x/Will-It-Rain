@@ -8,8 +8,10 @@ To simplify answering this question, I have created a simple website/tool that u
 
 
 ![alt text](https://i.imgur.com/3iOJ5Pe.png)
+
 Desktop
 
 
 ![alt text](https://i.imgur.com/Iw7vR5s.png)
+
 Mobile
